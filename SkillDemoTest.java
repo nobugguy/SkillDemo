@@ -1,6 +1,5 @@
-import static org.junit.Assert.*;// import JUnit’s Assert class
-import org.junit.*;// import JUnit
-
+import static org.junit.Assert.*;
+import org.junit.*;
 public class SkillDemoTest{
     @Test
     public void subtractTest() {
